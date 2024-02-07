@@ -1,0 +1,378 @@
+Summary for descr='IKI', q=1 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='down_time'
+H_1 has mean: 0.8283558129802366 and sd 0.0930810623317695
+R_1 has mean: 0.9908784421619933 and sd 0.009006654691393803
+OLS linear model: p-value is 0.14%, R2 is 0.004135488958625588; it has RMSE 1.0226089997504924
+
+
+Summary for descr='IKI', q=1.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='down_time'
+H_1.5 has mean: 0.6714322594011823 and sd 0.09534598326896247
+R_1.5 has mean: 0.9861469620223812 and sd 0.018999112936587872
+OLS linear model: p-value is 0.11%, R2 is 0.004308465771769465; it has RMSE 1.0225201847933847
+
+
+Summary for descr='IKI', q=2 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='down_time'
+H_2 has mean: 0.5569623033684086 and sd 0.10847539648212588
+R_2 has mean: 0.9756067105092348 and sd 0.04967027821070251
+OLS linear model: p-value is 5.12%, R2 is 0.0015394857280275343; it has RMSE 1.0239409924232936
+
+
+Summary for descr='IKI', q=2.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='down_time'
+H_2.5 has mean: 0.47733491873278766 and sd 0.11900870001264514
+R_2.5 has mean: 0.9599171652613279 and sd 0.09243657025638509
+OLS linear model: p-value is 26.57%, R2 is 0.0005017138876015625; it has RMSE 1.0244729819926373
+
+
+Summary for descr='IKI', q=3 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='down_time'
+H_3 has mean: 0.42045868828577937 and sd 0.12635111608166602
+R_3 has mean: 0.9432731950769124 and sd 0.1259284717129613
+OLS linear model: p-value is 52.88%, R2 is 0.00016068304906080577; it has RMSE 1.024647743214354
+
+
+Summary for descr='IKI', q=3.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='down_time'
+H_3.5 has mean: 0.37829816449524106 and sd 0.13148625142431666
+R_3.5 has mean: 0.9285415264849188 and sd 0.1454682090555089
+OLS linear model: p-value is 73.82%, R2 is 4.525060191018504e-05; it has RMSE 1.0247068898096325
+
+
+Summary for descr='IKI', q=4 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='down_time'
+H_4 has mean: 0.3459735226720832 and sd 0.13517237763798268
+R_4 has mean: 0.9159053486950668 and sd 0.15360464258698364
+OLS linear model: p-value is 88.76%, R2 is 8.099647395010123e-06; it has RMSE 1.0247259249137184
+
+
+Summary for descr='IKI', q=4.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='down_time'
+H_4.5 has mean: 0.3204763163706192 and sd 0.13789168699756146
+R_4.5 has mean: 0.9038552883667329 and sd 0.16036470832924413
+OLS linear model: p-value is 99.29%, R2 is 3.163380080106748e-08; it has RMSE 1.024730058690209
+
+
+Summary for descr='IKI', q=5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='down_time'
+H_5 has mean: 0.2998849121121414 and sd 0.13994777335438904
+R_5 has mean: 0.8921672513566339 and sd 0.1678347671855558
+OLS linear model: p-value is 93.13%, R2 is 3.0092606750908857e-06; it has RMSE 1.024728533057144
+
+
+Summary for descr='action_time', q=1 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='action_time'
+H_1 has mean: 0.7464182392934402 and sd 0.13346415606938034
+R_1 has mean: 0.9950197003218527 and sd 0.005100482878138439
+OLS linear model: p-value is 7.42%, R2 is 0.0012906783754342843; it has RMSE 1.0240685629053738
+
+
+Summary for descr='action_time', q=1.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='action_time'
+H_1.5 has mean: 0.7085962244507069 and sd 0.1304718600138077
+R_1.5 has mean: 0.9935198848867403 and sd 0.00755273764998839
+OLS linear model: p-value is 93.09%, R2 is 3.0481902000278893e-06; it has RMSE 1.0247285131109867
+
+
+Summary for descr='action_time', q=2 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='action_time'
+H_2 has mean: 0.662295007538533 and sd 0.1434915768030655
+R_2 has mean: 0.9901708658400542 and sd 0.018098669746318033
+OLS linear model: p-value is 2.55%, R2 is 0.002020221471246364; it has RMSE 1.0236944607415706
+
+
+Summary for descr='action_time', q=2.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='action_time'
+H_2.5 has mean: 0.6176896427015522 and sd 0.16153219973124974
+R_2.5 has mean: 0.9845283280283842 and sd 0.03338331220725741
+OLS linear model: p-value is 0.01%, R2 is 0.006338739431737572; it has RMSE 1.0214771633975512
+
+
+Summary for descr='action_time', q=3 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='action_time'
+H_3 has mean: 0.5792704094194626 and sd 0.1774034452508631
+R_3 has mean: 0.9771710242992936 and sd 0.04769115853552818
+OLS linear model: p-value is 0.00%, R2 is 0.010035727957648954; it has RMSE 1.019575152805726
+
+
+Summary for descr='action_time', q=3.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='action_time'
+H_3.5 has mean: 0.5475245826150539 and sd 0.18965988612432827
+R_3.5 has mean: 0.969099126229901 and sd 0.05725015419151635
+OLS linear model: p-value is 0.00%, R2 is 0.012486592025544807; it has RMSE 1.0183122846926036
+
+
+Summary for descr='action_time', q=4 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='action_time'
+H_4 has mean: 0.5215284752211964 and sd 0.19882740607423707
+R_4 has mean: 0.9606856093208463 and sd 0.0662751166089287
+OLS linear model: p-value is 0.00%, R2 is 0.013982529209007999; it has RMSE 1.0175406959011732
+
+
+Summary for descr='action_time', q=4.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='action_time'
+H_4.5 has mean: 0.5001504585121509 and sd 0.2057097625591001
+R_4.5 has mean: 0.9522073114852392 and sd 0.07487776673852653
+OLS linear model: p-value is 0.00%, R2 is 0.0148684244748295; it has RMSE 1.0170834844022647
+
+
+Summary for descr='action_time', q=5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='action_time'
+H_5 has mean: 0.4824081980831372 and sd 0.2109611289750566
+R_5 has mean: 0.943865471677762 and sd 0.08253981833009666
+OLS linear model: p-value is 0.00%, R2 is 0.015383018239357615; it has RMSE 1.0168178076140968
+
+
+Summary for descr='input_pause', q=1 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_1 has mean: 0.7859762668786893 and sd 0.08814703393071953
+R_1 has mean: 0.9897498738846084 and sd 0.00939711057558148
+OLS linear model: p-value is 2.38%, R2 is 0.0020684386297200597; it has RMSE 1.0236697306642093
+
+
+Summary for descr='input_pause', q=1.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_1.5 has mean: 0.6304879292101088 and sd 0.07901711200839173
+R_1.5 has mean: 0.9863861195674156 and sd 0.01903588044706309
+OLS linear model: p-value is 1.38%, R2 is 0.002452437822793363; it has RMSE 1.0234727601565796
+
+
+Summary for descr='input_pause', q=2 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_2 has mean: 0.5159587684957926 and sd 0.08793067197879063
+R_2 has mean: 0.9766247092404206 and sd 0.052862890021213194
+OLS linear model: p-value is 26.43%, R2 is 0.0005046795734328091; it has RMSE 1.0244714620964532
+
+
+Summary for descr='input_pause', q=2.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_2.5 has mean: 0.4360978397855653 and sd 0.09669609770106598
+R_2.5 has mean: 0.961774092488323 and sd 0.09385033071949335
+OLS linear model: p-value is 83.96%, R2 is 1.6591331652104913e-05; it has RMSE 1.0247215740447393
+
+
+Summary for descr='input_pause', q=3 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_3 has mean: 0.379022244984518 and sd 0.10294744019870243
+R_3 has mean: 0.945452934322333 and sd 0.1267201998050211
+OLS linear model: p-value is 72.85%, R2 is 4.881019333846659e-05; it has RMSE 1.0247050659565484
+
+
+Summary for descr='input_pause', q=3.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_3.5 has mean: 0.3367125825858893 and sd 0.107318293116914
+R_3.5 has mean: 0.9318339704726184 and sd 0.1414159229083189
+OLS linear model: p-value is 48.63%, R2 is 0.0001963682793021393; it has RMSE 1.0246294577177357
+
+
+Summary for descr='input_pause', q=4 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_4 has mean: 0.30428024955314836 and sd 0.11044821863897675
+R_4 has mean: 0.9192591299167249 and sd 0.15013156934021882
+OLS linear model: p-value is 35.22%, R2 is 0.00035054527225708565; it has RMSE 1.0245504520138469
+
+
+Summary for descr='input_pause', q=4.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_4.5 has mean: 0.27870630212064473 and sd 0.11275439375282155
+R_4.5 has mean: 0.9068005152874399 and sd 0.15820208455044577
+OLS linear model: p-value is 27.40%, R2 is 0.0004846328097267705; it has RMSE 1.0244817358986047
+
+
+Summary for descr='input_pause', q=5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_5 has mean: 0.258060530279114 and sd 0.11449859328149717
+R_5 has mean: 0.8943203201382823 and sd 0.1673916627549518
+OLS linear model: p-value is 22.54%, R2 is 0.000595082967333127; it has RMSE 1.0244251298177625
+
+
+Summary for descr='cut_pause', q=1 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_1 has mean: 0.617502377406225 and sd 0.1535683362844625
+R_1 has mean: 0.9384235150441355 and sd 0.08989679978863437
+OLS linear model: p-value is 0.00%, R2 is 0.037195983291764434; it has RMSE 1.0056864275718254
+
+
+Summary for descr='cut_pause', q=1.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_1.5 has mean: 0.5385573893789638 and sd 0.1359756255522342
+R_1.5 has mean: 0.9419495001607086 and sd 0.1530137979349737
+OLS linear model: p-value is 0.00%, R2 is 0.042679007539420444; it has RMSE 1.0028187223869616
+
+
+Summary for descr='cut_pause', q=2 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_2 has mean: 0.47924640350085096 and sd 0.13145277353153886
+R_2 has mean: 0.935621238662086 and sd 0.0951925763421706
+OLS linear model: p-value is 0.00%, R2 is 0.03725924067720332; it has RMSE 1.0056533896233752
+
+
+Summary for descr='cut_pause', q=2.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_2.5 has mean: 0.43377792851321406 and sd 0.13214773349943726
+R_2.5 has mean: 0.9253481032397007 and sd 0.11385786490609477
+OLS linear model: p-value is 0.00%, R2 is 0.029506313142351637; it has RMSE 1.0096945210970127
+
+
+Summary for descr='cut_pause', q=3 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_3 has mean: 0.3984443595250843 and sd 0.13434619106341913
+R_3 has mean: 0.9145446318602112 and sd 0.1826883170005666
+OLS linear model: p-value is 0.00%, R2 is 0.02320666952512651; it has RMSE 1.0129662718404018
+
+
+Summary for descr='cut_pause', q=3.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_3.5 has mean: 0.37051834708213105 and sd 0.13667198155012714
+R_3.5 has mean: 0.90193366843136 and sd 0.19534187919456275
+OLS linear model: p-value is 0.00%, R2 is 0.018686269897472352; it has RMSE 1.015307466623011
+
+
+Summary for descr='cut_pause', q=4 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_4 has mean: 0.3480458095223383 and sd 0.13871565294305727
+R_4 has mean: 0.8884748940106042 and sd 0.16105004961500202
+OLS linear model: p-value is 0.00%, R2 is 0.015495846239958477; it has RMSE 1.0169565989449443
+
+
+Summary for descr='cut_pause', q=4.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_4.5 has mean: 0.32964807611159486 and sd 0.14040727776098264
+R_4.5 has mean: 0.8786616558088917 and sd 0.2103098945798256
+OLS linear model: p-value is 0.00%, R2 is 0.013208941593588208; it has RMSE 1.0181370580352747
+
+
+Summary for descr='cut_pause', q=5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='pause'
+H_5 has mean: 0.3143492730889939 and sd 0.14178050456488409
+R_5 has mean: 0.8660895888277977 and sd 0.17693790918362648
+OLS linear model: p-value is 0.00%, R2 is 0.011530095955632702; it has RMSE 1.0190027775552657
+
+
+Summary for descr='rburst_length', q=1 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='size'
+H_1 has mean: 0.34178106285749343 and sd 0.13320807552039562
+R_1 has mean: 0.8166917218541107 and sd 0.119408842088901
+OLS linear model: p-value is 0.00%, R2 is 0.06546813541775331; it has RMSE 0.9908107259600432
+
+
+Summary for descr='rburst_length', q=1.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='size'
+H_1.5 has mean: 0.3220464120245072 and sd 0.13001656683789847
+R_1.5 has mean: 0.8241242508632223 and sd 0.12119533970960958
+OLS linear model: p-value is 0.00%, R2 is 0.0737400853565251; it has RMSE 0.9864159299111702
+
+
+Summary for descr='rburst_length', q=2 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='size'
+H_2 has mean: 0.3052145023702209 and sd 0.12802466863550171
+R_2 has mean: 0.8249559119913532 and sd 0.11995813385508444
+OLS linear model: p-value is 0.00%, R2 is 0.07799214712858071; it has RMSE 0.984149219433715
+
+
+Summary for descr='rburst_length', q=2.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='size'
+H_2.5 has mean: 0.29059862497720035 and sd 0.12662937414335176
+R_2.5 has mean: 0.8232700339589671 and sd 0.12190570377588382
+OLS linear model: p-value is 0.00%, R2 is 0.07971257376530361; it has RMSE 0.983230600843178
+
+
+Summary for descr='rburst_length', q=3 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='size'
+H_3 has mean: 0.2778341097749008 and sd 0.12556187356216814
+R_3 has mean: 0.8204297840563084 and sd 0.1260641759444869
+OLS linear model: p-value is 0.00%, R2 is 0.07986671291851444; it has RMSE 0.9831482566350516
+
+
+Summary for descr='rburst_length', q=3.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='size'
+H_3.5 has mean: 0.2666505552146285 and sd 0.12469435356776826
+R_3.5 has mean: 0.8160965716429301 and sd 0.12872736372661492
+OLS linear model: p-value is 0.00%, R2 is 0.07909562107869428; it has RMSE 0.9835601202474133
+
+
+Summary for descr='rburst_length', q=4 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='size'
+H_4 has mean: 0.25682069442978733 and sd 0.12395904965036147
+R_4 has mean: 0.8106391026639437 and sd 0.13017840679317497
+OLS linear model: p-value is 0.00%, R2 is 0.07781601016791329; it has RMSE 0.9842432190530274
+
+
+Summary for descr='rburst_length', q=4.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='size'
+H_4.5 has mean: 0.24814867996125808 and sd 0.12331753538154912
+R_4.5 has mean: 0.8055514384959567 and sd 0.135818672706644
+OLS linear model: p-value is 0.00%, R2 is 0.07628902309260699; it has RMSE 0.9850577555527326
+
+
+Summary for descr='rburst_length', q=5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='size'
+H_5 has mean: 0.24046648079989055 and sd 0.12274682955607935
+R_5 has mean: 0.7998861182352938 and sd 0.13625520655217854
+OLS linear model: p-value is 0.00%, R2 is 0.07467273136281549; it has RMSE 0.9859191964567696
+
+
+Summary for descr='word_time', q=1 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='word_time'
+H_1 has mean: 0.5944258711697198 and sd 0.1335773153692087
+R_1 has mean: 0.93587546605397 and sd 0.05859529245255641
+OLS linear model: p-value is 1.53%, R2 is 0.0023795792941587735; it has RMSE 1.023708495745203
+
+
+Summary for descr='word_time', q=1.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='word_time'
+H_1.5 has mean: 0.5018003921477632 and sd 0.09179726731753297
+R_1.5 has mean: 0.9443891233284354 and sd 0.05239288109866378
+OLS linear model: p-value is 0.00%, R2 is 0.012407042840786642; it has RMSE 1.018550659795432
+
+
+Summary for descr='word_time', q=2 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='word_time'
+H_2 has mean: 0.43451096213762136 and sd 0.07751669705107497
+R_2 has mean: 0.9443494503599315 and sd 0.06496300348530208
+OLS linear model: p-value is 0.00%, R2 is 0.021555542642129; it has RMSE 1.0138220463389633
+
+
+Summary for descr='word_time', q=2.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='word_time'
+H_2.5 has mean: 0.38562069892904466 and sd 0.07701264058763682
+R_2.5 has mean: 0.9398179021168928 and sd 0.08353659537900808
+OLS linear model: p-value is 0.00%, R2 is 0.022416948776547208; it has RMSE 1.013375672086215
+
+
+Summary for descr='word_time', q=3 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='word_time'
+H_3 has mean: 0.34903786808899423 and sd 0.08073761702500955
+R_3 has mean: 0.9338056685947931 and sd 0.09213939661798269
+OLS linear model: p-value is 0.00%, R2 is 0.019799549410579154; it has RMSE 1.0147313808460268
+
+
+Summary for descr='word_time', q=3.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='word_time'
+H_3.5 has mean: 0.3207848004146656 and sd 0.08503327015971275
+R_3.5 has mean: 0.9266374811061271 and sd 0.09795253198622697
+OLS linear model: p-value is 0.00%, R2 is 0.01706342365365876; it has RMSE 1.0161466514857576
+
+
+Summary for descr='word_time', q=4 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='word_time'
+H_4 has mean: 0.2983512372258612 and sd 0.08888443115641262
+R_4 has mean: 0.918730357109461 and sd 0.10185183781020067
+OLS linear model: p-value is 0.00%, R2 is 0.014899824785912008; it has RMSE 1.0172643864938224
+
+
+Summary for descr='word_time', q=4.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='word_time'
+H_4.5 has mean: 0.2801207315123231 and sd 0.0921133337264816
+R_4.5 has mean: 0.9101148716016426 and sd 0.10623259663768884
+OLS linear model: p-value is 0.00%, R2 is 0.013271218154173092; it has RMSE 1.0181049301222467
+
+
+Summary for descr='word_time', q=5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='word_time'
+H_5 has mean: 0.26501801181707463 and sd 0.09477074876900261
+R_5 has mean: 0.9008907438497006 and sd 0.11268170490919935
+OLS linear model: p-value is 0.00%, R2 is 0.012041690154450113; it has RMSE 1.0187390450034721
+
+
+Summary for descr='action_type', q=1 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='value'
+H_1 has mean: 0.9681710830231899 and sd 0.11973726300778521
+R_1 has mean: 0.9836740083226331 and sd 0.009245571966256746
+OLS linear model: p-value is 0.00%, R2 is 0.01602937855413067; it has RMSE 1.0166810019677834
+
+
+Summary for descr='action_type', q=1.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='value'
+H_1.5 has mean: 0.8720005071385659 and sd 0.11225698334975731
+R_1.5 has mean: 0.9874098019188619 and sd 0.008264874689518907
+OLS linear model: p-value is 0.00%, R2 is 0.014985156215658546; it has RMSE 1.0172203267592925
+
+
+Summary for descr='action_type', q=2 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='value'
+H_2 has mean: 0.8251754607660865 and sd 0.11300971262708473
+R_2 has mean: 0.9873216972745112 and sd 0.008763805362015861
+OLS linear model: p-value is 0.00%, R2 is 0.01422170225159114; it has RMSE 1.0176144581138924
+
+
+Summary for descr='action_type', q=2.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='value'
+H_2.5 has mean: 0.7981954492012032 and sd 0.11589113474665497
+R_2.5 has mean: 0.9859316686203928 and sd 0.010001929459828387
+OLS linear model: p-value is 0.00%, R2 is 0.01444318449180837; it has RMSE 1.0175001341368624
+
+
+Summary for descr='action_type', q=3 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='value'
+H_3 has mean: 0.7809932178187419 and sd 0.11925532830149832
+R_3 has mean: 0.9839967583639686 and sd 0.011631697867748638
+OLS linear model: p-value is 0.00%, R2 is 0.015372385323228821; it has RMSE 1.0170203622401455
+
+
+Summary for descr='action_type', q=3.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='value'
+H_3.5 has mean: 0.7691944955073267 and sd 0.12254804992400647
+R_3.5 has mean: 0.9818394863308593 and sd 0.013454253833862914
+OLS linear model: p-value is 0.00%, R2 is 0.016715125294778144; it has RMSE 1.0163266686265122
+
+
+Summary for descr='action_type', q=4 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='value'
+H_4 has mean: 0.7606250134022177 and sd 0.12557815324713353
+R_4 has mean: 0.9796265854395889 and sd 0.015350624693314446
+OLS linear model: p-value is 0.00%, R2 is 0.018265611011227145; it has RMSE 1.0155250587823133
+
+
+Summary for descr='action_type', q=4.5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='value'
+H_4.5 has mean: 0.7541065589216623 and sd 0.12829502385237387
+R_4.5 has mean: 0.9774503794757021 and sd 0.01724778705966839
+OLS linear model: p-value is 0.00%, R2 is 0.019891321322137445; it has RMSE 1.0146838772878108
+
+
+Summary for descr='action_type', q=5 with s_iter=[10, 30, 50, 70, 100, 150, 200, 300] and target='value'
+H_5 has mean: 0.7489586126834628 and sd 0.13070447571487964
+R_5 has mean: 0.9753613446087531 and sd 0.019100384167688257
+OLS linear model: p-value is 0.00%, R2 is 0.021510780513549377; it has RMSE 1.0138452363695483
+
+

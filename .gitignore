@@ -1,0 +1,5 @@
+old
+data
+.ipynb_checkpoints
+__pycache__
+.*lock*
